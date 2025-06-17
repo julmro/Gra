@@ -18,7 +18,7 @@ git clone https://github.com/julmro/Gra.git
 cd Gra
 cd list-6
 ```
-### Uruchom grę
+### Uruchom grę:
 ```bash
 python main.py
 ```
