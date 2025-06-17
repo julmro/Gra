@@ -16,6 +16,7 @@
 ```bash
 git clone https://github.com/julmro/Gra.git
 cd Gra
+cd list-6
 ```
 ### Uruchom grę
 ```bash
