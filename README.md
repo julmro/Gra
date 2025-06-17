@@ -12,11 +12,16 @@
  ### 6. Za wygraną zdobywasz punkt.
  ### 7. Za przegraną tracisz jedno życie.
 ## Uruchomienie: 
-### Sklonuj repozytorium
+### Sklonuj repozytorium:
 ```bash
 git clone https://github.com/julmro/Gra.git
 cd Gra
 ```
+### Uruchom grę
+```bash
+python main.py
+```
+
 
 
 
