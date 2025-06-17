@@ -13,6 +13,7 @@
  ### 7. Za przegraną tracisz jedno życie.
 ## Uruchomienie: 
 ### Sklonuj repozytorium
-<pre> ```bash git clone &lt;https://github.com/julmro/Gra.git&gt; cd &lt;Gra&gt; ``` </pre>
+<pre lang="markdown"> ```bash git clone https://github.com/julmro/Gra.git cd Gra ``` </pre>
+
 
 
