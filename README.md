@@ -1,1 +1,3 @@
-# Gra
+# Gra: Kółko i krzyżyk - Czerwony Smok
+
+
